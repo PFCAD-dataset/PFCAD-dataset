@@ -6,3 +6,6 @@ This is the first version of PFCAD dataset.
 
 The data size of the PFCAD dataset will continuously increase in the future for further research.
 
+Here are some samples of PFCAD dataset.
+
+![image](https://github.com/PFCAD-dataset/PFCAD-dataset/blob/main/samples.png)
